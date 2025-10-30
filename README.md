@@ -75,6 +75,7 @@ Adafruit NeoPixel | Control de LED RGB (opcional)
 Servo	Control de servomotores | (si se extiende el proyecto)
 
 ## Cómo usarlo
+https://www.tinkercad.com/things/eNLtqSYsvD6-termostato-bluetooth/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard
 
 ### Ejecución básica
 1. Abre el archivo del proyecto en Tinkercad o Arduino IDE.
@@ -139,3 +140,4 @@ Confirma que el divisor de voltaje esté correctamente conectado y que la red Wi
 
 - ¿El Bluetooth no se conecta? 
 Asegúrate de que el módulo HC-05 esté emparejado con la app móvil y que el puerto serial esté configurado correctamente.
+
