@@ -96,7 +96,7 @@ Servo	Control de servomotores | (si se extiende el proyecto)
 ## Estructura del proyecto
 
 ```
-📁 Termostato-Bluetooth/
+📁 Proyecto-Termostato-Bluetooth/
 ├── README.md
 ├── termostato_bluetooth1.ino
 ├── /docs
@@ -138,4 +138,5 @@ Revisa las salidas PWM del Arduino y asegúrate de que el código esté asignand
 Confirma que el divisor de voltaje esté correctamente conectado y que la red Wi-Fi esté disponible.
 
 - ¿El Bluetooth no se conecta? 
+
 Asegúrate de que el módulo HC-05 esté emparejado con la app móvil y que el puerto serial esté configurado correctamente.
